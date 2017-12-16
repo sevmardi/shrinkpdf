@@ -1,0 +1,2 @@
+# shrinkpdf
+For personal usage
